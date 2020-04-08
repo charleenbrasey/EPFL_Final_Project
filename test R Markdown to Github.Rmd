@@ -3,6 +3,8 @@ title: "test doc R Markdown"
 output: html_document
 ---
 
+# Added a title - A for testing the push
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
