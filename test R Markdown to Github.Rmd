@@ -5,6 +5,9 @@ output: html_document
 
 # Added a title - A for testing the push
 
+I have understood that I have to use the repository created by EPFL-extension-school received by email.
+I have therefore modify it for project "Project with Git" and I will then test again the commit and push.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
